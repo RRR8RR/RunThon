@@ -5,8 +5,8 @@ import random
 
 from telethon import events
 
-from Tepthon import zedub
-from Tepthon.core.logger import logging
+from Runthon import zedub
+from Runthon.core.logger import logging
 from ..Config import Config
 from ..core.managers import edit_or_reply, edit_delete
 from ..helpers import reply_id, get_user_from_event
