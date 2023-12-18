@@ -12,8 +12,8 @@ from telethon.tl.functions.users import GetFullUserRequest
 from telethon.tl.types import MessageEntityMentionName
 from telethon.utils import get_input_location
 
-from Tepthon import zedub
-from Tepthon.core.logger import logging
+from Runthon import zedub
+from Runthon.core.logger import logging
 
 from ..Config import Config
 from ..core.managers import edit_or_reply, edit_delete
