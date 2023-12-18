@@ -1,8 +1,8 @@
 # pm and tagged messages logger for catuserbot by @mrconfused (@sandy1709)
 import asyncio
 
-from Tepthon import zedub
-from Tepthon.core.logger import logging
+from Runthon import zedub
+from Runthon.core.logger import logging
 
 from ..Config import Config
 from ..core.managers import edit_delete
