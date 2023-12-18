@@ -4,7 +4,7 @@ from telethon import Button, events
 from telethon.events import CallbackQuery
 from ..core import check_owner, pool
 
-from Tepthon import zedub
+from Runthon import zedub
 
 from ..Config import Config
 from . import mention
