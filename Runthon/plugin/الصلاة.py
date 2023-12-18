@@ -4,8 +4,8 @@ Credit: @Tepthon
 
 import json
 import requests
-from Tepthon import zedub
-from Tepthon.core.logger import logging
+from Runthon import zedub
+from Runthon.core.logger import logging
 
 from ..Config import Config
 from ..core.managers import edit_delete, edit_or_reply
