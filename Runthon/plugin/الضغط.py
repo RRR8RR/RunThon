@@ -7,8 +7,8 @@ import re
 import time
 from datetime import datetime
 
-from Tepthon import zedub
-from Tepthon.core.logger import logging
+from Runthon import zedub
+from Runthon.core.logger import logging
 
 from ..Config import Config
 from ..core.managers import edit_delete, edit_or_reply
